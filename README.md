@@ -10,14 +10,14 @@ A beginner level task for practicing strings.
 
 ## Complete the Task
 
-1. Implement all static methods in [StringLiterals.cs](WorkingWithStrings/StringLiterals.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [CreatingStrings.cs](WorkingWithStrings/CreatingStrings.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [UsingIndexerForAccessingStringChar.cs](WorkingWithStrings/UsingIndexerForAccessingStringChar.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [UsingRanges.cs](WorkingWithStrings/UsingRanges.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [SplittingStrings.cs](WorkingWithStrings/SplittingStrings.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [JoiningStrings.cs](WorkingWithStrings/JoiningStrings.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [ConcatenatingStrings.cs](WorkingWithStrings/ConcatenatingStrings.cs) file. See a method documentation and TODO comments.
-1. Implement all static methods in [CopyingStrings.cs](WorkingWithStrings/CopyingStrings.cs) file. See a method documentation and TODO comments.
+1. Implement all static methods in the [StringLiterals.cs](WorkingWithStrings/StringLiterals.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [CreatingStrings.cs](WorkingWithStrings/CreatingStrings.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [UsingIndexerForAccessingStringChar.cs](WorkingWithStrings/UsingIndexerForAccessingStringChar.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [UsingRanges.cs](WorkingWithStrings/UsingRanges.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [SplittingStrings.cs](WorkingWithStrings/SplittingStrings.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [JoiningStrings.cs](WorkingWithStrings/JoiningStrings.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [ConcatenatingStrings.cs](WorkingWithStrings/ConcatenatingStrings.cs) file. See the method documentation and TODO comments.
+1. Implement all static methods in the [CopyingStrings.cs](WorkingWithStrings/CopyingStrings.cs) file. See the method documentation and TODO comments.
 
 ## Fix Compiler Issues
 
@@ -29,11 +29,11 @@ If a compiler error or warning message is not clear, [review errors details](htt
 ## Save Your Work
 
 * [Rebuild your solution](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio) in Visual Studio.
-* Check out the [Error List window](https://docs.microsoft.com/en-us/visualstudio/ide/reference/error-list-window) for compiler errors and warnings. If you have any of those issues, **fix issues** and rebuild the solution again.
+* Check out the [Error List window](https://docs.microsoft.com/en-us/visualstudio/ide/reference/error-list-window) for compiler errors and warnings. If you have any of those issues, **fix the issues** and rebuild the solution again.
 * [Run all unit tests with Test Explorer](https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer) and make sure there are **no failed unit tests**. Fix your code to [make all your unit tests GREEN](https://stackoverflow.com/questions/276813/what-is-red-green-testing).
 * Review all your changes **before** saving your work.
     * Open "Changes" view in [Team Explorer](https://docs.microsoft.com/en-us/visualstudio/ide/reference/team-explorer-reference).
-    * Click with your right mouse button on a modified file.
+    * Right click on a modified file.
     * Click on "Compare with Unmodified" menu item to open a comparison window.
 * [Stage your changes](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#stage-your-changes) and [create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#create-a-commit).
 * Share your changes by [pushing them to remote repository](https://docs.microsoft.com/en-us/azure/devops/repos/git/pushing).

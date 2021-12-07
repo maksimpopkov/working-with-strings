@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-#pragma warning disable CA1062
-#pragma warning disable SA1615
-#pragma warning disable SA1611
-
 namespace WorkingWithStrings
 {
     public static class JoiningStrings

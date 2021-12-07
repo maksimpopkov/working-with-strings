@@ -3,9 +3,6 @@ using System.Globalization;
 using NUnit.Framework;
 
 // ReSharper disable StringLiteralTypo
-#pragma warning disable CA1707
-#pragma warning disable CA1062
-
 namespace WorkingWithStrings.Tests
 {
     [TestFixture]

@@ -3,8 +3,6 @@
 // ReSharper disable StringLiteralTypo
 // ReSharper disable CommentTypo
 // ReSharper disable IdentifierTypo
-#pragma warning disable SA1615
-
 namespace WorkingWithStrings
 {
     public static class StringLiterals

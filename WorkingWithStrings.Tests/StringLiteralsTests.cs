@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 
+// ReSharper disable StringLiteralTypo
+// ReSharper disable IdentifierTypo
 namespace WorkingWithStrings.Tests
 {
-    // ReSharper disable StringLiteralTypo
-    // ReSharper disable IdentifierTypo
     [TestFixture]
     public sealed class StringLiteralsTests
     {

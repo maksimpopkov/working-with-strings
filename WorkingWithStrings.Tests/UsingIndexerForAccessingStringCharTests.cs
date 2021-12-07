@@ -1,8 +1,6 @@
 ﻿using NUnit.Framework;
 
 // ReSharper disable StringLiteralTypo
-#pragma warning disable CA1707
-
 namespace WorkingWithStrings.Tests
 {
     [TestFixture]

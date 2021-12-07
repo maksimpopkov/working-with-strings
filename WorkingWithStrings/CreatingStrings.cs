@@ -1,8 +1,5 @@
 ﻿using System;
 
-#pragma warning disable SA1611
-#pragma warning disable SA1615
-
 namespace WorkingWithStrings
 {
     public static class CreatingStrings
